@@ -1,0 +1,33 @@
+git init >>>Intiate project
+
+.git it is the folder where we can mange the project if this folder deleted th's mean this project not tracked by git.
+
+git status>> to list the chnaged files which not tracked
+
+touch .ignorefile 
+
+above file used to list files need to be out of control of other people.
+
+
+
+git add -A (git add ahmed.txt) >>> to move to staging
+
+git reset (to roll back files )
+
+git config --user.name "Ahmed ELKoush"
+git config --user.email "ahmed.elkoush@intellsic.com"
+
+To clone  i need 
+
+git clone https://bitbucket.org/idealsoft/trf-12c 
+user name and password
+
+to check the differance 
+
+git diff
+
+
+
+
+
+
