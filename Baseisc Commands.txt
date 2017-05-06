@@ -24,10 +24,10 @@ user name and password
 
 to check the differance 
 
-git diff
+it diff
 
 
 
-
+gann
 
 
