@@ -1,5 +1,5 @@
 git init >>>Intiate project
-
+ganna ahmed 
 .git it is the folder where we can mange the project if this folder deleted th's mean this project not tracked by git.
 
 git status>> to list the chnaged files which not tracked
