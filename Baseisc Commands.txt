@@ -28,8 +28,3 @@ it diff
 
 
 
-gann
-
-
-This verion for develop
-07-05
