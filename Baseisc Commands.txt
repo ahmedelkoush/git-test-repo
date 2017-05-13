@@ -28,8 +28,8 @@ it diff
 
 
 
-gann
+<<<<<<< HEAD
 
 
-This verion for develop
-07-05 Version2
+
+>>>>>>> master
